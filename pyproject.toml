@@ -1,0 +1,37 @@
+[tool.poetry]
+name = "skiovo-project"
+version = "0.1.0"
+description = ""
+authors = ["Anastasia K. <nkaliman00@mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+spacy = "^3.8.4"
+numpy = "^1.24"
+pymupdf = "^1.25.1"
+docling = "^2.15.1"
+pdfplumber = "^0.11.5"
+matplotlib = "^3.10.0"
+wordcloud = "^1.9.4"
+scikit-learn = "^1.6.1"
+stop-words = "^2018.7.23"
+ace-tools = "^0.0"
+tools = "^0.1.9"
+nltk = "^3.9.1"
+gensim = "^4.3.3"
+pyldavis = "^3.4.1"
+qdrant-client = "^1.12.2"
+sentence-transformers = "^3.3.1"
+langchain-core = "^0.3.29"
+torch = "^2.5.1"
+streamlit = "^1.41.1"
+dash = "^2.18.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
