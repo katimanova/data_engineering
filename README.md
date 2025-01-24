@@ -62,7 +62,7 @@ poetry shell
 
 2. **🧹 Предобработка данных:**
    - **Структуризация и преобразование**:
-     - Данные структурированы в единый JSON и атомарные PDF-файлы для удобства работы и хранения. Подробнее в ноутбуке [`notebooks/data_preprocessing/pdf_json_decomposer/script.ipynb`](notebooks/data_preprocessing/pdf_json_decomposer/script.ipynb).
+     - Данные структурированы в единый JSON и атомарные PDF-файлы для удобства работы и хранения. Подробнее в ноутбуке [`notebooks/data_preprocessing/pdf_json_decomposer/structuring.ipynb`](notebooks/data_preprocessing/pdf_json_decomposer/structuring.ipynb).
    - **Подготовка к векторизации**:
      - Выполнена предобработка данных перед их векторизацией. Подробнее в [`notebooks/db_vectorization/preprocessing_all_basin.ipynb`](notebooks/db_vectorization/preprocessing_all_basin.ipynb).
 
