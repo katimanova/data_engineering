@@ -71,8 +71,8 @@ poetry shell
      - Изучение содержимого отчетов по бассейнам.
      - Анализ частотности слов.
      - Визуализацию данных в формате облака слов.  
-     Подробнее см. в [`notebooks/eda/eda.ipynb`](notebooks/eda/eda.ipynb).
-     - Дашборд реализован на базе Plotly Dash - [`notebooks/eda/vector_db_dashboard.ipynb`](notebooks/eda/vector_db_dashboard.ipynb).
+     Подробнее см. в [`notebooks/EDA/eda.ipynb`](notebooks/EDA/eda.ipynb).
+     - Дашборд реализован на базе Plotly Dash - [`notebooks/EDA/vector_db_dashboard.ipynb`](notebooks/EDA/vector_db_dashboard.ipynb).
 
      ![Демонстрация работы](./data/gif/dashboard.gif)
 
