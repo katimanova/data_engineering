@@ -90,7 +90,7 @@ poetry shell
    - **Векторизация данных**:
      - Выполнена векторизация и размещение данных в локальной базе Qdrant. Подробности в [`notebooks/db_vectorization/vectorization_all.ipynb`](notebooks/db_vectorization/vectorization_all.ipynb).
    - **Оценка качества векторных данных**:
-     - Проведена оценка данных на основе метрик качества. Подробности см. в [`./evaluation/metrics.ipynb`](./evaluation/metrics.ipynb).
+     - Проведена оценка данных на основе метрик качества. Подробности см. в [`notebooks/evaluation/metrics.ipynb`](notebooks/evaluation/metrics.ipynb).
      
 6. **Прототип rule-based бот**
 ![Прототип](data/gif/Прототип.gif)
